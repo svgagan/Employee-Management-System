@@ -7,7 +7,7 @@ Designed and developed Employee Management System using J2EE, Servlets, MySQL an
 * Spring Tools Suite
 
 ## Prerequisites
-Add the following in the build path
+Downlaod and add the following jar in the project build path
 * mysql-connector-java-5.1.40-bin.jar
 * servlet-api-2.5.jar
 
