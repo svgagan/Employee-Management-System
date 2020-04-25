@@ -1,0 +1,3 @@
+"id","employeeId","managerId","details","requestStatus","response","date","status"
+1,3,2,"I need leave tomorrow.",0,"Accepted","2017-05-08",1
+2,9,6,"I need leave tomorrow",1,"NA","2017-05-11",1
